@@ -4,11 +4,7 @@ package com.ly;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Employee employee = new Employee();
-        Employee employee1 = Employee.getInstance();
-        Employee employee2 = Employee.getInstance();
-
-
-        System.out.println(employee1 == employee2);
+       BankAccount account=new BankAccount.Builder().setAccountNumber("1234567890").setOwner("John Doe").setPremium(true).build();
+       System.out.println(account.toString());
     }
 }
