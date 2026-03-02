@@ -4,14 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55aa740e-a67c-4aff-8350-aa70ae55b392" name="Changes" comment="" />
+    <list default="true" id="55aa740e-a67c-4aff-8350-aa70ae55b392" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton/src/main/java/com/ly/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/main/java/com/ly/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="81" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -25,8 +36,10 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -34,6 +47,9 @@
     "last_opened_file_path": "F:/design_patten/creational_pattern",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "F:/websocket/creational_pattern/src/main/java/com/ly/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -74,6 +90,9 @@
       <updated>1769067904471</updated>
       <workItem from="1769067906074" duration="53000" />
       <workItem from="1769068018010" duration="313000" />
+      <workItem from="1772180143375" duration="49000" />
+      <workItem from="1772180492741" duration="19000" />
+      <workItem from="1772180668955" duration="124000" />
     </task>
     <servers />
   </component>
