@@ -1,1 +1,9 @@
-# design_patten
+1. Creational Patterns (အရာဝတ္ထုများ တည်ဆောက်ခြင်း)Focus: How objects are created.PatternEnglish Short NoteBurmese Short NoteSingletonEnsures a class has only one instance.Class တစ်ခုမှာ Instance တစ်ခုတည်းရှိရမယ်လို့ ကန့်သတ်တာ။Factory MethodCreates objects without specifying the exact class.ဘယ် Class သုံးမယ်ဆိုတာ တိုက်ရိုက်မပြောဘဲ Object ထုတ်ပေးတာ။BuilderConstructs complex objects step by step.ရှုပ်ထွေးတဲ့ Object တွေကို တစ်ဆင့်ချင်း တည်ဆောက်ယူတာ။PrototypeCreates new objects by copying an existing one.ရှိပြီးသား Object ကို Copy ကူးပြီး အသစ်ဖန်တီးတာ။
+
+
+
+  2. Structural Patterns (ဖွဲ့စည်းပုံ တည်ဆောက်ခြင်း)Focus: How classes and objects are composed to form larger structures.PatternEnglish Short NoteBurmese Short NoteAdapterAllows incompatible interfaces to work together.မကိုက်ညီတဲ့ Interface နှစ်ခုကို ကြားခံသုံးပြီး ချိတ်ဆက်တာ။DecoratorAdds new behavior to an object dynamically.ရှိပြီးသား Object ကို မပြင်ဘဲ အပေါ်ကနေ လုပ်ဆောင်ချက်အသစ် ထပ်ပေါင်းတာ။FacadeProvides a simplified interface to a complex system.ရှုပ်ထွေးတဲ့ System တစ်ခုလုံးကို ရိုးရှင်းတဲ့ Interface တစ်ခုထဲနဲ့ ချိတ်ပေးတာ။ProxyProvides a placeholder for another object to control access.အခြား Object တစ်ခုကို လှမ်းသုံးဖို့ ကြားခံ (ကိုယ်စားလှယ်) အနေနဲ့ သုံးတာ။
+ 3. Behavioral Patterns (လုပ်ဆောင်ချက် ဆက်သွယ်ခြင်း)Focus: How objects communicate and distribute responsibility.PatternEnglish Short NoteBurmese Short NoteObserverNotifies multiple objects about state changes.အပြောင်းအလဲရှိရင် စောင့်ကြည့်နေသူအားလုံးကို သတင်းလှမ်းပို့တာ။StrategyDefines a family of algorithms and makes them interchangeable.လုပ်ဆောင်ချက် (Algorithm) တွေကို လိုသလို လဲလှယ်သုံးလို့ရအောင် လုပ်တာ။StateChanges object behavior based on its internal state.Object ရဲ့ အခြေအနေပေါ် မူတည်ပြီး လုပ်ဆောင်ချက်တွေ ပြောင်းလဲသွားတာ။CommandEncapsulates a request as an object.ခိုင်းစေချက် (Request) တစ်ခုကို Object တစ်ခုအနေနဲ့ ပြောင်းလဲသိမ်းဆည်းတာ။
+ 4.
+ 5.
+ 6. Key SummaryCreational: အသစ်ဖန်တီးတာ (Creation logic).Structural: ချိတ်ဆက်ဖွဲ့စည်းတာ (Class/Object relationships).Behavioral: လုပ်ဆောင်ချက် ဆက်သွယ်တာ (Communication between objects).
